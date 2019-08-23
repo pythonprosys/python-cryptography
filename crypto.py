@@ -1,5 +1,5 @@
 from random import randint
-print("Encrypt/Decrypt ©2019 Nils Schöne")
+print("Encrypt/Decrypt")
 ALPHABET = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.,:;_-@!$%&/()=?#{}[]0123456789<>#'
 
 def generate_otp(sheets, length):
